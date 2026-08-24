@@ -14,7 +14,7 @@ export default function Projects() {
       role: "Full Stack & Python Developer",
       description: "Built a Next.js command center dashboard delivering real-time geographic threat mapping. Architected a Supabase-backed data layer to handle live telemetry streaming and developed Python microservices to automate AI-driven incident dossiers.",
       tech: ["Next.js", "Supabase", "Python", "Microservices"],
-      link: "https://github.com/goutam8671"
+      link: "https://project-grid-rdnjjk5zg-goutam-vishnois-projects.vercel.app/"
     },
     {
       title: "A.U.R.A. (Advanced Intrusion Prevention System)",
@@ -28,7 +28,7 @@ export default function Projects() {
       role: "Team Leader & AI Integrator",
       description: "Led a team to build an offline-capable disaster preparedness web app optimized for 2G networks. Implemented interactive risk-tracking maps and deployed Generative AI-powered predictive alerts to generate responsive safety checklists.",
       tech: ["Generative AI", "Web Dev", "UI/UX", "Mobile Optimization"],
-      link: "https://github.com/goutam8671"
+      link: "https://app-8b8sks3eigw1.appmedo.com/risk-assessment"
     }
   ];
 
